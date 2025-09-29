@@ -1,6 +1,6 @@
 # 🚀 Bienvenida/o mi perfil de GitHub
 
-¡Hola y bienvenid@ a mi perfil de GitHub! Soy Full Stack Developer con conocimientos tanto en frontend como en backend . Apasionado del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web . Siempre estudiando, siempre creando.
+¡Hola y bienvenid@ a mi perfil de GitHub! Soy Full Stack Developer Junior con conocimientos tanto en frontend como en backend . Apasionado del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web . Siempre estudiando, siempre creando.
 
 ## Redes:
 [<img src="https://www.eco.unc.edu.ar/images/distancia/ECOAPPS/Discord_iso.png" width="80" height="80" >](https://discord.com/channels/@me) [<img src="https://molinosacem.com/wp-content/uploads/2022/02/logo-Linkedin.png" width="70" height="70" >](https://www.linkedin.com/in/luis-meneses-533a42156/) [<img src="https://www.imprentaonline.net/blog/wp-content/webpc-passthru.php?src=https://www.imprentaonline.net/blog/wp-content/uploads/Gmail-Logo-2010-2013.png&nocache=1" width="70" height="70" >]
